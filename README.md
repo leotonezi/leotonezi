@@ -1,6 +1,6 @@
 # ahoy, matey! welcome aboard this fine vessel! 🏴‍☠️ 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)
 
 I be the captain of this scallywag haven! feel free to explore the treasures and knowledge that lie within, organized with the precision of me beloved lowerCamelCase, unlike the chaotic seas I sail. Yarrrr! ☠️
 
