@@ -3,7 +3,7 @@
 
 I be the captain of this scallywag haven! feel free to explore the treasures and knowledge that lie within, organized with the precision of me beloved lowerCamelCase, unlike the chaotic seas I sail. Yarrrr! ☠️
 
-🌐 **[leotonezi.dev](https://www.leotonezi.dev)**
+# 🌐 **[leotonezi.dev](https://www.leotonezi.dev)**
 
 ## ⚙️ tools  
 
