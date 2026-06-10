@@ -1,5 +1,3 @@
-# leonardo tonezi
-
 **senior software engineer · llm · ai agents · solana · python / typescript**
 
 [![status](https://img.shields.io/badge/status-open_to_chaos-ff0000?style=for-the-badge&logo=starship&logoColor=white&color=8B0000)]()
