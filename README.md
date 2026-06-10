@@ -1,16 +1,29 @@
 # leonardo tonezi
 
-**senior software engineer · llm backends · ai agents · solana · python / typescript**
+**senior software engineer · llm · ai agents · solana · python / typescript**
 
-8+ years shipping across healthtech, fintech, and saas.
+[![status](https://img.shields.io/badge/status-open_to_chaos-ff0000?style=for-the-badge&logo=starship&logoColor=white&color=8B0000)]()
+
+**🌐 [leotonezi.dev](https://www.leotonezi.dev)** · 8+ years shipping across healthtech, fintech, and saas.
 currently building ai-driven systems and on-chain apps on solana.
 mba in ai & big data · aws certified · solana rust bootcamp
 
----
+## 📊 github stats & activity
 
-## 🌐 [leotonezi.dev](https://www.leotonezi.dev)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leotonezi&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotonezi&layout=compact&theme=dark&hide_border=true&hide=html,css" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leotonezi&theme=dark&hide_border=true" />
+</div>
+
+<details>
+  <summary>📈 recent github activity</summary>
+  
+  ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leotonezi&theme=github-dark&hide_border=true&area=true)
+</details>
 
 ## 🔨 building
 
@@ -22,34 +35,30 @@ mba in ai & big data · aws certified · solana rust bootcamp
 
 **[amigo-agiota](https://github.com/leotonezi/amigo-agiota)** — subscription payment tracker. participants upload proof of payment monthly, owner approves. no more whatsapp chaos.
 
----
-
 ## ⚙️ stack
 
 ### backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![fastapi](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### infra & cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![aws](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![gcp](https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![terraform](https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### web3
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=rust&logoColor=white)
-
----
+![solana](https://img.shields.io/badge/solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![anchor](https://img.shields.io/badge/anchor-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ## 📬 connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leotonezi)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leoademir0@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leotonezi)
+[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leoademir0@gmail.com)
